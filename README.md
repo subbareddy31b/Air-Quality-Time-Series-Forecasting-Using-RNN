@@ -51,10 +51,10 @@ The model was evaluated using the following metrics:
 - 📈 scikit-learn  
 
 ### 📊 Plots
-##🔥Correlation Heatmap
+## 🔥Correlation Heatmap
 ![output](https://github.com/user-attachments/assets/a153bede-7a57-4975-8709-fd88b26fac2f)
 
-##⏳CO(GT) Values over time
+## ⏳CO(GT) Values over time
 ![output](https://github.com/user-attachments/assets/bb38c1ad-5fbf-475e-9c09-98ca5743c197)
 
 ## 📈Prediction and Model Loss
